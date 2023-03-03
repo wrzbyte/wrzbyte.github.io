@@ -18,6 +18,7 @@ const config = {
   projectName: 'wrzbyte.github.io',
   organizationName: 'wrzbyte',
   trailingSlash: false,
+  deploymentBranch: "gh-pages",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
